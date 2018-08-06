@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P12 Quiz</string>
+    <string-array name="link">
+        <item>Google</item>
+        <item>RP Home</item>
+    </string-array>
+</resources>
